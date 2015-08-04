@@ -1,5 +1,11 @@
 # deepdream
 
+This is a fork of the original [deep dream code](https://github.com/google/deepdream), edited to make videos.
+
+<img src="https://raw.githubusercontent.com/jamesrobertlloyd/deepdream/master/logo.png" width="100%">
+
+Original description below.
+
 This repository contains IPython Notebook with sample code, complementing 
 Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
 See [original gallery](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB) for more examples.
